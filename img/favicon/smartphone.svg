@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#002856;}
+</style>
+<g id="Smartphone">
+	<path class="st0" d="M352,8H160c-22.1,0-40,17.9-40,40v416c0,22.1,17.9,40,40,40h192c22.1,0,40-17.9,40-40V48
+		C392,25.9,374.1,8,352,8z M310.2,24l-4.8,24h-98.9l-4.8-24H310.2z M376,464c0,13.2-10.8,24-24,24H160c-13.2,0-24-10.8-24-24V48
+		c0-13.2,10.8-24,24-24h25.4l6.7,33.6c0.7,3.7,4,6.4,7.8,6.4h112c3.8,0,7.1-2.7,7.8-6.4l6.7-33.6H352c13.2,0,24,10.8,24,24V464z"/>
+	<path class="st0" d="M208,456h-48c-4.4,0-8,3.6-8,8s3.6,8,8,8h48c4.4,0,8-3.6,8-8S212.4,456,208,456z"/>
+	<path class="st0" d="M240,456h-8c-4.4,0-8,3.6-8,8s3.6,8,8,8h8c4.4,0,8-3.6,8-8S244.4,456,240,456z"/>
+</g>
+</svg>
